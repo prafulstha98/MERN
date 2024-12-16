@@ -1,0 +1,25 @@
+HTML:
+Text-formatting-tags:
+Heading/paragraph
+super(dates, formula)/sub /break/space
+
+
+Listing-tags
+order/unorder
+Image-tag:
+
+Anchor-tag:
+External page link/
+Table-tag:():nh,w/col   
+form/mailto link
+
+
+Sources: 
+https://www.w3schools.com/
+https://css-tricks.com/
+https://dev.to/smitterhane/13-css-tricks-that-will-give-you-an-adrenaline-rush-5908
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe
+https://www.youtube.com/embed/MucuOtJtqnM?si=V7bur6sFQLprCPF-?autoplay=1&muted=1
+https://taimoorsattar.com/
+https://taimoorsattar.com/static/39365a4129bdd53c77210e7ea868a0d8/88aab/table.png
+
