@@ -23,3 +23,6 @@ https://www.youtube.com/embed/MucuOtJtqnM?si=V7bur6sFQLprCPF-?autoplay=1&muted=1
 https://taimoorsattar.com/
 https://taimoorsattar.com/static/39365a4129bdd53c77210e7ea868a0d8/88aab/table.png
 
+
+HTML Tables
+based on table row, table headings, and table data 
