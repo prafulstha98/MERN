@@ -3,6 +3,18 @@ Text-formatting-tags:
 Heading/paragraph
 super(dates, formula)/sub /break/space
 
+div tag
+- to divide the code into sections 
+
+navigation bar 
+header and footer of a website 
+
+using id attribute for header, those thing which are unique and need not be created and designed twice
+using class atribute for other similar elements, those things which are to be repeated again and again 
+
+Semantic HTML formatting is the best 
+
+
 
 Listing-tags
 order/unorder
@@ -12,6 +24,25 @@ Anchor-tag:
 External page link/
 Table-tag:():nh,w/col   
 form/mailto link
+
+CSS 
+used for styling
+- inline 
+- inpage 
+- external
+CSS selectors: to select a specify tag by its name 
+
+Coloring part 
+- to link external CSS, mention exact location of that file 
+
+Tailwind CSS 
+- inline CSS 
+
+
+
+
+GIT and GITHUB
+commands 
 
 
 Sources: 
@@ -26,3 +57,4 @@ https://taimoorsattar.com/static/39365a4129bdd53c77210e7ea868a0d8/88aab/table.pn
 
 HTML Tables
 based on table row, table headings, and table data 
+
