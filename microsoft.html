@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Microsoft Clone</title>
+    <link rel="stylesheet" href="microsoft.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+      integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <script src="https://unpkg.com/scrollreveal"></script>
+  </head>
+  <body>
+    <header>
+      <div class="left-part">
+        <div class="logo">
+          <img src="assets/images/logo.png" alt="" />
+        </div>
+        <nav>
+          <a href="">Office</a>
+          <a href="">Windows</a>
+          <a href="">Surface</a>
+          <a href="">Xbox</a>
+          <a href="">Deals</a>
+          <a href="">Support</a>
+        </nav>
+      </div>
+
+      <div class="right-part">
+        <i class="fa-solid fa-magnifying-glass"></i>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <i class="fa-solid fa-cart-shopping"></i>
+      </div>
+    </header>
+
+    <main>
+      <div class="box">
+        <div class="text-box">
+          <h1>Surface Deals</h1>
+          <p>Select Surafaces are on sale now-save while supplies last</p>
+          <button>Shop Now</button>
+        </div>
+      </div>
+    </main>
+    <!-- <footer>
+      <div class="footer">
+        <div class="new">
+          <h1>What's New</h1>
+          <p>Surface Pro X</p>
+          <p>Surface Laptop 3</p>
+          <p>Surface Pro 7</p>
+          <p>Windows 10 apps</p>
+          <p>Office apps</p>
+        </div>
+
+        <div class="store">
+          <h1>Microsoft Store</h1>
+          <p>Account Profile</p>
+          <p>Download center</p>
+          <p>Microsoft store support</p>
+          <p>Returns</p>
+          <p>Older tracking</p>
+        </div>
+
+        <div class="edu">
+          <h1>Education</h1>
+          <p>Microsoft in Education</p>
+          <p>Office for students</p>
+          <p>Office 365 for schools</p>
+          <p>Deals for students</p>
+          <p>Microsoft azure</p>
+        </div>
+
+        <div class="enterprise">
+          <h1>Enterprise</h1>
+          <p>Azure</p>
+          <p>AppSource</p>
+          <p>Automotive</p>
+          <p>Government</p>
+          <p>Healthcare</p>
+        </div>
+
+        <div class="developer">
+          <h1>Developer</h1>
+          <p>Visual Studio</p>
+          <p>Windows Dev Center</p>
+          <p>Developer network</p>
+          <p>Technet</p>
+          <p>Microsoft Developer</p>
+        </div>
+
+        <div class="Company">
+          <h1>Company</h1>
+          <p>Careers</p>
+          <p>About Microsoft</p>
+          <p>Company news</p>
+          <p>Privacy at Microsoft</p>
+          <p>Investors</p>
+        </div>
+      </div>
+    </footer> -->
+
+    <script>
+      const rev = ScrollReveal({
+        delay: 200,
+        duration: 1000,
+        distance: "500px",
+      });
+      rev.reveal(".left-part", {
+        delay: 300,
+        distance: "500px",
+        origin: "left",
+      });
+      rev.reveal(".right-part", {
+        origin: "right",
+      });
+    </script>
+  </body>
+</html>

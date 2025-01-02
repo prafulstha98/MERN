@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 80vw;
+  height: 80vh;
+  margin: 0 auto;
+  padding-top: 20px;
+  /* padding: 35px 25px 0 50px; */
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.left-part {
+  display: flex;
+  gap: 50px;
+  align-items: center;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  padding-right: 25px;
+  font-size: 15px;
+}
+
+a:hover {
+  text-decoration: underline 1px solid red;
+  text-underline-offset: 10px;
+}
+
+.icons {
+  padding-right: 75px;
+}

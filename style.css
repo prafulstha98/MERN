@@ -1,0 +1,16 @@
+body {
+  background-color: aqua;
+}
+
+div {
+  text-align: center;
+  border: 2px solid white;
+  padding: 300px 200px;
+}
+
+p {
+  color: white;
+  font-size: 50px;
+  font-weight: bolder;
+  text-shadow: -12px 12px red, -20px 20px violet, -28px 28px green;
+}

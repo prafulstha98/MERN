@@ -14,8 +14,6 @@ using class atribute for other similar elements, those things which are to be re
 
 Semantic HTML formatting is the best 
 
-
-
 Listing-tags
 order/unorder
 Image-tag:
@@ -24,6 +22,9 @@ Anchor-tag:
 External page link/
 Table-tag:():nh,w/col   
 form/mailto link
+
+HTML Tables
+based on table row, table headings, and table data 
 
 CSS 
 used for styling
@@ -38,23 +39,149 @@ Coloring part
 Tailwind CSS 
 - inline CSS 
 
+GIT and GITHUB commands 
+//to update new added changes into a repo/repository
+git add . 
 
+//to commit the added changes to that particular repo/repository
+git commit -m "updated"
 
+//to push the changes to a particular branch
+git push origin <branch-name>
 
-GIT and GITHUB
-commands 
+//for example: the name of the branch is "main"
+git push origin main 
+
+//to create new branch on github 
+git checkout -b <branch-name>
+git switch -c <branch-name>
+
+//for example: the name of the branch you want to create is "css"
+git checkout -b css
+
+//for example: the name of branch you want to switch to is: "css" 
+git switch css
+
+//lists out all the available branch you have 
+git branch 
+
+//both the commands are same and they both have same functions
+git checkout -b aloo
+git switch -c aloo 
+
+//to delete a branch
+git branch -d <branch-name>
+
+//for example: suppose you have a branch named "alookhau"
+git branch -d alookhau
 
 
 Sources: 
 https://www.w3schools.com/
+
 https://css-tricks.com/
-https://dev.to/smitterhane/13-css-tricks-that-will-give-you-an-adrenaline-rush-5908
+
+https://dev.to/smitterhane 13-css-tricks-that-will-give-you-an-adrenaline-rush-5908
+
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe
+
 https://www.youtube.com/embed/MucuOtJtqnM?si=V7bur6sFQLprCPF-?autoplay=1&muted=1
+
 https://taimoorsattar.com/
+
 https://taimoorsattar.com/static/39365a4129bdd53c77210e7ea868a0d8/88aab/table.png
 
+https://colorhunt.co/
 
-HTML Tables
-based on table row, table headings, and table data 
+https://dribbble.com/
+
+https://pixabay.com/
+
+https://getcssscan.com/?ref=beautifulboxshadow_header_logo
+
+https://tailwindcss.com/
+
+https://www.material-tailwind.com/
+
+https://overreacted.io/a-complete-guide-to-useeffect/
+
+https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-git-large-file-storage
+
+https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github
+
+https://vite.dev/
+
+https://redux-toolkit.js.org/rtk-query/usage/examples
+
+https://ngrok.com/
+
+https://github.com/features/copilot
+
+https://bennettfeely.com/clippy/
+
+https://www.w3schools.com/colors/colors_hsl.asp
+
+https://scrollrevealjs.org/
+
+https://fontawesome.com/
+
+https://www.wappalyzer.com/
+
+
+Javascript 
+Javascript:
+Variables,const,let,
+ primitive types(String,Number,boolean,undefined,null)
+Reference types(object,array,function)
+let/const
+Template strings / concat
+String methods(search(pos)/charAt(i)/concat(t,t)/
+repeat/slice/toSring()
+Number methods()parseInt/parseFloat/tofixed/
+Math pow/random/Pi
+Arithmetic opera, assign oper, logical ope, terninary oper
+If else / switch 
+Array:
+index/position/modify/pop/push/
+sort/rev/shift/unshift
+reverse/splice/join/concat/includes
+spread
+destructing  
+Objects:
+creating object-literal
+this keyword
+Objects in array
+DateTime
+
+
+
+
+
+
+Arithmetic operators(+,-)/assignment operator
+comparison operators(>)
+Logical operators(||, &&)/Terninary operators
+     Control flow:
+   if else/else def one var compare like ge se..tick/jun..tic/reg tic
+While loop/do while
+For loop -fbz/modulos 3 5 ii
+Break /continue
+Switch method
+Calc   switch
+React - Javascript Library 
+Live Reloading of sites 
+
+Node js - javascript runtime environment 
+- primarily used for backend development 
+- also used for both frontend and backend development  
+
+http://35.178.114.187:1332/
+
+NoSQL Datbase - MongoDB
+
+
+Express js - web application framework 
+- build web applications and APIs on the backend
+
+
 

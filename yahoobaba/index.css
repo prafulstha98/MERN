@@ -1,0 +1,64 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  padding: 20px;
+}
+
+footer {
+  background-color: purple;
+  display: flex;
+  flex-direction: column;
+}
+
+h1 {
+  color: goldenrod;
+}
+
+p {
+  color: white;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+}
+
+/* .container {
+  width: 500px;
+  border: 1px solid black;
+  display: flex;
+  justify-content: space-around;
+}
+
+.container1 {
+  width: 500px;
+  border: 1px solid black;
+  display: flex;
+  justify-content: space-between;
+}
+
+.container2 {
+  width: 500px;
+  border: 1px solid black;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.alexa {
+  width: 100px;
+  background-color: aqua;
+}
+
+.cortana {
+  width: 100px;
+  background-color: green;
+}
+
+.siri {
+  width: 100px;
+  background-color: greenyellow;
+} */

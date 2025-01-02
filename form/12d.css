@@ -1,0 +1,110 @@
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  padding: 20px;
+}
+
+.bx {
+  height: 200px;
+  width: 50%;
+  background-color: yellow;
+  overflow: hidden;
+  box-shadow: 7px 9px 0px 10px red;
+}
+
+.bx1 {
+  height: 200px;
+  width: 50%;
+  background-color: yellow;
+  overflow: hidden;
+  box-shadow: 7px 9px 0px 10px red;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+} */
+
+/* box-shadow
+border-radius  */
+
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  padding: 20px;
+}
+
+.bx {
+  width: 300px;
+  height: 400px;
+  background-color: red;
+  overflow: hidden;
+  box-shadow: 10px 15px 30px 20px red;
+  border-radius: 20px 20px 20px 20px;
+  overflow: hidden;
+}
+
+.bx1 {
+  width: 300px;
+  height: 400px;
+  overflow: hidden;
+  border-radius: 20px 20px 20px 20px;
+  overflow: hidden;
+  background-color: rgb(200, 1000, 150);
+}
+
+img {
+  width: 250px;
+  height: 300px;
+  /* clip-path: polygon(); */
+/* border-radius: 15%; */
+/* } */
+
+/* .bx2 {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  background-color: rgba(100, 50, 60, 0.5); 
+}    */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  padding: 20px;
+}
+
+.bx {
+  background-color: red;
+}
+
+img {
+  background-color: red;
+  width: 200px;
+  height: 300px;
+  transition: all 1s ease;
+}
+
+img:hover {
+  filter: blur(5px);
+  /* width: 300px; */
+
+  transform: rotate(360deg);
+}
+
+/* transition and transform compliment each other */
+/* transition for animation 
+    filter  for image filtering */
+
+/* hover for mouse function  */
