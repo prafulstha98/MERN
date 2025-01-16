@@ -15,7 +15,7 @@ const Programcard = ({ label, author, url }) => {
         </p>
       </div>
 
-      <img className="h-[220px]" src={url} alt="" />
+      <img className="h-[220px]" src={praful} alt="" />
       <div className="space-y-2 mt-5">
         <h1>Label</h1>
         <p>Author</p>
