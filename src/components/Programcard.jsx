@@ -14,6 +14,18 @@ const Programcard = ({ label, author, url }) => {
           illum. Nemo, inventore.
         </p>
       </div>
+
+      <img className="h-[220px]" src={url} alt="" />
+      <div className="space-y-2 mt-5">
+        <h1>Label</h1>
+        <p>Author</p>
+        <p className="line-clamp-3">
+          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Adipisci
+          esse nesciunt veritatis sed, ea molestias possimus doloribus tenetur
+          inventore consectetur veniam voluptates est maxime, eius aliquid vitae
+          illum. Nemo, inventore.
+        </p>
+      </div>
     </div>
   );
 };
