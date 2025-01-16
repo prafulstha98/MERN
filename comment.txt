@@ -1,0 +1,36 @@
+vanilla javascript 
+DOM (document object model)
+
+public folder 
+-> public assets of website like "images and video files" 
+
+src folder 
+-> source code of application 
+
+events in react and javascript
+
+JSX
+- javascript,css and react components into html
+
+React Components
+- data
+- logic 
+- apperance 
+
+react is a "Single Page Application (SPA)"
+
+
+Shortcuts
+-> rafc rafce 
+
+
+use javascript file for data and logic 
+
+if part of a component, use .jsx extensoin
+
+pages folder 
+
+react 
+-> import and export 
+-> spa 
+-> tutorial 
